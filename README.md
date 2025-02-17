@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 <!-- ![](https://badge.mediaplus.ma/binary/oakhmouc) -->
 [![oakhmouc's 42 stats](https://badge.mediaplus.ma/binary/oakhmouc)](https://github.com/oakoudad/badge42)
 
-![Jokes](https://readme-jokes.vercel.app/api)
