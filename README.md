@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://badge.mediaplus.ma/binary/oakhmouc)
+<!-- ![](https://badge.mediaplus.ma/binary/oakhmouc) -->
+[![oakhmouc's 42 stats](https://badge.mediaplus.ma/binary/oakhmouc)](https://github.com/oakoudad/badge42)
